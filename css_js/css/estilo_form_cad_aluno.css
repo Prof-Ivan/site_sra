@@ -1,0 +1,8 @@
+fieldset
+{
+	border: 1px solid silver; margin: 8px;	padding: 10px;
+	border-radius: 5px;	
+}
+
+#div_form
+{width: 705px; position: relative; margin: auto;}

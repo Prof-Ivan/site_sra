@@ -1,0 +1,20 @@
+/* CSS da página principal */
+
+body { background-image: linear-gradient( to right, black, green 50%, green 60%, black); }
+
+
+footer {color: #fff;}
+
+#menu_img {width: 50px; height: 50px;}
+
+#menu_img:hover {width: 70px; height: 70px;}
+
+
+
+#pos_menu{height: 100px; padding-top: 15px;}
+
+.form_menu:hover{ background-image: linear-gradient( to right, black, green 50%, green 60%, black);}
+
+
+
+

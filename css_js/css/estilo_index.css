@@ -1,0 +1,14 @@
+/* CSS da página index */
+
+body { background-image: linear-gradient( to right, black, green 50%, green 60%, black); }
+
+
+#div_topo {text-align: center; margin: 0px;}
+
+#form_login
+{position: relative; margin: auto; width: 400px; text-align: center;
+     border-radius: 0px 0px 100px 100px; padding: 20px; }
+
+input{text-align: center;}
+
+
